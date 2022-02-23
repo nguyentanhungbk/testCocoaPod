@@ -1,0 +1,23 @@
+PODS:
+  - CommonExtension (1.0.0)
+  - SwiftLint (0.46.1)
+
+DEPENDENCIES:
+  - CommonExtension (from `./`)
+  - SwiftLint
+
+SPEC REPOS:
+  trunk:
+    - SwiftLint
+
+EXTERNAL SOURCES:
+  CommonExtension:
+    :path: "./"
+
+SPEC CHECKSUMS:
+  CommonExtension: 83029c1f3c69b1fe8a0584f42bb0db14a3e8bc41
+  SwiftLint: aaa29a9f649316095a9079595cb60906bd899353
+
+PODFILE CHECKSUM: 0ad5b53dc376c6e70c358f329c533b9fd913cd9a
+
+COCOAPODS: 1.11.2
